@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rick-morty/static/css/main.8fdd6a08.css",
-    "main.js": "/rick-morty/static/js/main.a26f3d28.js",
-    "static/js/453.b0aa6dac.chunk.js": "/rick-morty/static/js/453.b0aa6dac.chunk.js",
-    "index.html": "/rick-morty/index.html",
-    "main.8fdd6a08.css.map": "/rick-morty/static/css/main.8fdd6a08.css.map",
-    "main.a26f3d28.js.map": "/rick-morty/static/js/main.a26f3d28.js.map",
-    "453.b0aa6dac.chunk.js.map": "/rick-morty/static/js/453.b0aa6dac.chunk.js.map"
+    "main.css": "/[https://breiner2020tocora1-a11y.github.io/rick-morty](https://breiner2020tocora1-a11y.github.io/rick-morty)/static/css/main.8fdd6a08.css",
+    "main.js": "/[https://breiner2020tocora1-a11y.github.io/rick-morty](https://breiner2020tocora1-a11y.github.io/rick-morty)/static/js/main.52e8ef00.js",
+    "static/js/453.b0aa6dac.chunk.js": "/[https://breiner2020tocora1-a11y.github.io/rick-morty](https://breiner2020tocora1-a11y.github.io/rick-morty)/static/js/453.b0aa6dac.chunk.js",
+    "index.html": "/[https://breiner2020tocora1-a11y.github.io/rick-morty](https://breiner2020tocora1-a11y.github.io/rick-morty)/index.html",
+    "main.8fdd6a08.css.map": "/[https://breiner2020tocora1-a11y.github.io/rick-morty](https://breiner2020tocora1-a11y.github.io/rick-morty)/static/css/main.8fdd6a08.css.map",
+    "main.52e8ef00.js.map": "/[https://breiner2020tocora1-a11y.github.io/rick-morty](https://breiner2020tocora1-a11y.github.io/rick-morty)/static/js/main.52e8ef00.js.map",
+    "453.b0aa6dac.chunk.js.map": "/[https://breiner2020tocora1-a11y.github.io/rick-morty](https://breiner2020tocora1-a11y.github.io/rick-morty)/static/js/453.b0aa6dac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fdd6a08.css",
-    "static/js/main.a26f3d28.js"
+    "static/js/main.52e8ef00.js"
   ]
 }
